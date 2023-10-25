@@ -1,0 +1,27 @@
+.week{
+  background-color: rgb(125, 121, 121);
+  line-height: 50px;
+}
+
+#slide{
+  background-color: rgb(198, 136, 189);
+  color: black;
+  
+}
+
+#code{
+  background-color: rgb(71, 71, 221);
+  color: black;
+}
+
+#form{
+  background-color: orange;
+  color: black;
+}
+
+#solu{
+  background-color: rgb(19, 177, 82);
+  color: black;
+   
+}
+
